@@ -1,0 +1,22 @@
+html {
+    border: 1px solid red;
+}
+
+div {
+    width: 1000px;
+    height: 800px;
+    background-image: url(bolygo.jpg);
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    background-attachment: scroll;
+    background-position: center;
+    margin-left: 50px;
+}
+
+#par {
+    font-size: 30px;
+}
+
+.oszt {
+    text-align: center;
+}
